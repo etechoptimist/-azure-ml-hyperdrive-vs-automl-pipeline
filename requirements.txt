@@ -1,0 +1,8 @@
+cloudpickle==2.2.1 
+numpy==1.24.0 
+scikit-learn
+azureml-core==1.0.85
+azureml-dataprep==1.1.14
+azureml-dataprep-rslex==1.1.0
+azureml-dataset-runtime==1.10.0
+python_version < "3.9"
