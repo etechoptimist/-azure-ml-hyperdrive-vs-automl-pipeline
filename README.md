@@ -56,3 +56,10 @@ Expanding the search space for hyperparameters allows the model to explore a wid
 **Image of cluster marked for deletion**
 
 ![Cluster Deletion](images/cluster_deletion.png)
+
+
+## Connect with me:
+[![GitHub icon](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/etechoptimist) | [![LinkedIn icon](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://linkedin.com/in/etechoptimist) | [![Twitter icon](https://img.icons8.com/ios-filled/50/000000/twitter.png)](https://twitter.com/etechoptimist)
+
+---
+Explore more articles on [Medium](https://medium.com/@etechoptimist) and follow my GitHub for AI projects.
